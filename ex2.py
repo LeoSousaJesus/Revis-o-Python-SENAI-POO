@@ -1,3 +1,4 @@
+# Programa avaliação Aprovado ou Reprovado
 # Solicita as notas ao usuário e as converte para inteiros
 nota1 = int(input("Digite a primeira nota: "))
 nota2 = int(input("Digite a segunda nota: "))
