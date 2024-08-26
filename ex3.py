@@ -26,4 +26,4 @@ class Aluno():
         return f" falta-hora permitidas : {percent_cargahora} você faltou: {self.faltas} horas, resultado: {msg} por faltas"
     
 # exercicio
-# considere
+# considere realizar uma avaliação para aprovar ou reprovar os alunos pelo percentual de faltas
